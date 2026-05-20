@@ -1,15 +1,24 @@
 {
   "files": {
     "main.css": "/OS/static/css/main.e6c13ad2.css",
-    "main.js": "/OS/static/js/main.70980c84.js",
+    "main.js": "/OS/static/js/main.df1c2f6a.js",
     "static/js/453.5af8d65f.chunk.js": "/OS/static/js/453.5af8d65f.chunk.js",
+    "static/media/eniac.png": "/OS/static/media/eniac.9c7aed1d33cc4878fc0f.png",
+    "static/media/ms.png": "/OS/static/media/ms.f03263c360e1d9222f80.png",
+    "static/media/ibm.png": "/OS/static/media/ibm.b3a6185c45290e96b976.png",
+    "static/media/lw.png": "/OS/static/media/lw.1a875631b5457fb0289b.png",
+    "static/media/osw.png": "/OS/static/media/osw.1f84f0a7d383f352d62f.png",
+    "static/media/win.png": "/OS/static/media/win.827e89a570f989eb150c.png",
+    "static/media/ivsa.png": "/OS/static/media/ivsa.ed16d5c0ad575d291f93.png",
+    "static/media/lc.png": "/OS/static/media/lc.cc9e604f82f0692a4f98.png",
+    "static/media/ll.png": "/OS/static/media/ll.55bd3b8d3529be7174e3.png",
     "index.html": "/OS/index.html",
     "main.e6c13ad2.css.map": "/OS/static/css/main.e6c13ad2.css.map",
-    "main.70980c84.js.map": "/OS/static/js/main.70980c84.js.map",
+    "main.df1c2f6a.js.map": "/OS/static/js/main.df1c2f6a.js.map",
     "453.5af8d65f.chunk.js.map": "/OS/static/js/453.5af8d65f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.70980c84.js"
+    "static/js/main.df1c2f6a.js"
   ]
 }
